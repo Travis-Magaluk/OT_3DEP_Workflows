@@ -1,0 +1,2 @@
+/vsicurl/https://prd-tnm.s3.amazonaws.com/StagedProducts/NAIP/nj_2015/40073/m_4007309_sw_18_1_20150729_20150909.jp2
+/vsicurl/https://prd-tnm.s3.amazonaws.com/StagedProducts/NAIP/ny_2015/40073/m_4007309_sw_18_h_20150522_20151109.jp2
